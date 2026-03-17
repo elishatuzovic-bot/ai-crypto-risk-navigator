@@ -7,6 +7,8 @@ This tool uses live crypto and FX market data to explain DeFi risks and trade of
 The inspiration for this tool came from the research paper titled 'On-chain Foreign Exchange and Cross-border Payments', written by
 Austin Adams, Mary-Catherine Lader, Gordon Liao, David Puth, Xin Wan, published by UniSwap, January 24, 2023
 
+# 
+
 ### Example Output
 #### AI Crypto Risk Navigator
 Enter a topic (ETH staking, stablecoin remittance, liquidity, pools): 
